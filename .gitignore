@@ -131,6 +131,7 @@ npm-debug.log
 yarn-error.log
 .npm/
 .npm-debug.log
+.npmrc
 .v8flags.*
 .yarnrc
 
